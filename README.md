@@ -1,4 +1,5 @@
-# Hello my name is Jasmin! I’m a certified IT professional, excited to grow in the field
+# Hello my name is Jasmin! 
+I’m a certified IT professional, excited to grow in the field
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
