@@ -8,7 +8,7 @@ Eager to continue growing in the field!
   - [osTicket: Post-Installation Configuration](https://github.com/jasminsanchezz/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/jasminsanchezz/ticket-lifecycle-examples)
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Configuring Active Directory within Azure VMs](https://github.com/jasminsanchezz/azure-network-protocols)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
