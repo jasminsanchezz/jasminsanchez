@@ -9,6 +9,8 @@ Eager to continue growing in the field!
   - [osTicket: Ticket Lifecycle Examples](https://github.com/jasminsanchezz/ticket-lifecycle-examples)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/jasminsanchezz/azure-network-protocols)
+- <b>Virtual Private Network</b>
+  - [Configuring Active Directory within Azure VMs](https://github.com/jasminsanchezz/
 
 <h2>🤳Connect with me:</h2>
 
