@@ -10,7 +10,7 @@ Eager to continue growing in the field!
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/jasminsanchezz/azure-network-protocols)
 - <b>Virtual Private Network</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/jasminsanchezz/vpn-setup)
+  - [VPN Setup in Virtual Machine](https://github.com/jasminsanchezz/vpn-setup)
 
 <h2>📩 Contact Me</h2>
 
